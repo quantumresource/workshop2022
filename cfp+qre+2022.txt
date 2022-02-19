@@ -1,9 +1,9 @@
-3rd International Workshop on Quantum Resource Estimation (QRE 2021)
+3rd International Workshop on Quantum Resource Estimation (QRE 2022)
 https://www.quantumresource.org/
 
-June 19, 2021 - ONLINE - Valencia, Spain
+June 11, 2022 - New York, USA
 
-co-located with International Symposium on Computer Architecture (ISCA) 2021
+co-located with International Symposium on Computer Architecture (ISCA) 2022
 
 ==================--= Call for Papers =--==========================
 
@@ -26,25 +26,17 @@ Research papers, tutorials, software and other demonstrations, and work-in-progr
 * Practical quantitative analysis of surface code alternatives.
 * Noisy Intermediate Scale Quantum (NISQ) evaluation.
 
-==== Invited Speakers ====
-
-* Maria Kieferova, University of Technology Sydney
-* Michael Bremner, University of Technology Sydney
-* Kenneth Brown, Duke University
-* Nikolas P. Bruekmann, University College London
-* John van de Wetering, Oxford University
 
 ===== Paper submission =====
 
-Initial submission for QRE2021 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
+Initial submission for QRE2022 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
 
-Upon acceptance, researchers are invited to submit full research papers (maximum 12 pages), as well as work-in-progress or tool demonstration papers (maximum 6 pages). The full papers are submitted after the workshop (see important dates below) and the best papers will be recommended to a second review round for IEEE Transactions on Quantum Engineering. 
+Upon acceptance, researchers are invited to submit full research papers to IEEE Transactions on Quantum Engineering.
 
 https://easychair.org/conferences/?conf=qre2021
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 15 May 2021
-Notification Extended Abstract: 29 May 2021
-Workshop Date: 19 June 2021
-Full Paper Submission: 1 October 2021
+Extended Abstract Submission: 24 April 2022
+Notification Extended Abstract: 08 May 2022
+Workshop Date: 11 June 2022
