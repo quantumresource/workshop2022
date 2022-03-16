@@ -1,7 +1,7 @@
 3rd International Workshop on Quantum Resource Estimation (QRE 2022)
 https://www.quantumresource.org/
 
-June 11, 2022 - New York, USA
+June 18, 2022 - New York, USA
 
 co-located with International Symposium on Computer Architecture (ISCA) 2022
 
@@ -39,4 +39,4 @@ https://easychair.org/conferences/?conf=qre2021
 
 Extended Abstract Submission: 24 April 2022
 Notification Extended Abstract: 08 May 2022
-Workshop Date: 11 June 2022
+Workshop Date: 18 June 2022
